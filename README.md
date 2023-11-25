@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Chetan Sahu
 - 👀 I’m interested in Technology,Building Scalable and highly available web applications, and problem solving using Data Structures and Algorithms 
-- 🌱 I’m currently learning Django, Python, Object Oriented Programming, System Designing of Large scale distributed systems.
+- 🌱 I’m proficient in Python, Object Oriented Programming and building high scalable and reliable systems in Javascript, Node.Js, Express.Js, TypeScript, AWS tech.
 - 💞️ I’m looking to collaborate on learning how to build scalable and efficient web applications.
-- I have solved more than 708+ data structure and algorithm problems on Leetcode. Leetcode: https://leetcode.com/Red_inside/, and also retain a significant 4 star (Rating - 1844) in Codechecf. Codechecf: https://www.codechef.com/users/red_pillow_123
-- 📫 How to reach me https://www.linkedin.com/in/chetan-sahu-872692219/ 
+- I have solved more than 1200+ data structure and algorithm problems on Leetcode. Leetcode: https://leetcode.com/Red_inside/, and also retain a significant 4 star (Rating - 1844) in Codechecf. Codechecf: https://www.codechef.com/users/red_pillow_123
+- 📫 How to reach me https://www.linkedin.com/in/chetansahu1803/
 
 <!---
 Red-Pillow/Red-Pillow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
